@@ -1,0 +1,1 @@
+2025-09-08T08:34:53.922Z POST /shorturls error: Error: SQLITE_ERROR: table urls has no column named created_at
