@@ -50,22 +50,37 @@ A full-stack URL Shortener application built with **Node.js, Express, MongoDB** 
 
 
 url-shortener-backend/
+
 ├─ server.js
+
 ├─ models/
+
 ├─ routes/
+
 └─ package.json
 
 url-shortener-frontend/
+
 ├─ src/
+
 │ ├─ components/
+
 │ │ ├─ ShortenerForm.js
+
 │ │ └─ StatisticsView.js
+
 │ ├─ services/
+
 │ │ └─ api.js
+
 │ ├─ App.js
+
 │ ├─ App.css
+
 │ └─ index.js
+
 ├─ package.json
+
 └─ public/
 
 
